@@ -10,8 +10,8 @@
 
 <div  align="center" justify-content="center">
   <a href="https://github.com/davidgomes27">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davidgomes27&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgomes27&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidgomes27&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgomes27&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
 ##
