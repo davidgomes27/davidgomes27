@@ -10,8 +10,8 @@
 
 <div  align="center" justify-content="center">
   <a href="https://github.com/davidgomes27">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davidgomes27&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgomes27&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davidgomes27&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgomes27&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
 ##
@@ -39,3 +39,7 @@
 <div style="display:flex" width="50px" height="50px" align="center" justify-content="center">
   <img width="100%" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg" />
 </div>
+  
+ ##
+  
+  ![snake gif](https://github.com/davidgomes27/davidgomes27/blob/output/github-contribution-grid-snake.gif)
